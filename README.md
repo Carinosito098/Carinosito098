@@ -70,7 +70,7 @@
              <td width="50%">
     <h3 align="center"> Github, proyectos y manuales </h3>
     <div align="center">
-      <a href="https://www.tiktok.com/@techred.insights?_t=8o1gSnYjHoD&_r=1">
+      <a href="https://github.com/Carinosito098">
         <img src="https://cdn.icon-icons.com/icons2/3858/PNG/512/github_logo_icon_238282.png">
       </a>
     <p>
