@@ -12,7 +12,7 @@
 <a href="https://www.tiktok.com/@techred.insights?_t=8o1gSnYjHoD&_r=1">
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 
-<a href="mailto:eduardomaciet@gmail.com.com">
+<a href="mailto:eduardomaciet@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
  ## Sobre mí 🙋🏻‍♂️
