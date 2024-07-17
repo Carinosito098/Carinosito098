@@ -45,7 +45,7 @@
     <h3 align= "center"> Instagram </h3>
     <div alig="center">
     <a href="https://www.instagram.com/techr.ed?igsh=dDFzbXluMW93d3Mx">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRer59OfrDhfj3NTD5ZQJyrW2udjCB4-wxpg&s" width="500" height="470">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRer59OfrDhfj3NTD5ZQJyrW2udjCB4-wxpg&s" width="500" height="450">
     </a>
       <br>
     <p> Las metodologías y procedimiento por medio de recursos en donde los <strong>Insights</strong> influiran en tu aprendizaje por lo cual aquí podrás tener una vista de ellos.</p>
