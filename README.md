@@ -37,7 +37,7 @@
       <h3 align= "center"> Facebook </h3>
       <div align= "center">
         <a href="https://www.facebook.com/profile.php?id=61561497166447">
-          <img src="https://scontent.fmex19-1.fna.fbcdn.net/v/t39.30808-6/450478028_122108211236383238_8503569822229697759_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=uUCWdTCNdsgQ7kNvgE5ZWq4&_nc_ht=scontent.fmex19-1.fna&oh=00_AYBZUrgj7q2UnKGX5hKLUzBHPtm-3NaEgCQ3cVu7uqzPTQ&oe=669CF09E">
+          <img src="https://scontent.fmex19-1.fna.fbcdn.net/v/t39.30808-6/450478028_122108211236383238_8503569822229697759_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGxibjm7B6K7-lDejk7Ih38qoTfHnNp3P2qhN8ec2nc_Q7XJ82EXgx3Ax80bioqQE18WI_Z6ZLCjtl_sQ5YxQm6&_nc_ohc=aPEmmadAj0UQ7kNvgF93D_W&_nc_ht=scontent.fmex19-1.fna&oh=00_AYBTsBaue07WWHsx6YsSg-RiwJt8tJPrDoylP6DAKPlcFw&oe=66B6A5DE" width="500" height="395">
         </a>
         <p> Informate con los últimos <strong>Insights</strong>, en esta página aprenderás, te informarás y sobre todo día a día estaremos actualizandonos en las novedades en el ámbito tecnológico.</p>
                       </div>
