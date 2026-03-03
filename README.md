@@ -61,7 +61,7 @@
     <h3 align="center"> TikTok </h3>
     <div align="center">
       <a href="https://www.tiktok.com/@techred.insights?_t=8o1gSnYjHoD&_r=1">
-        <img src="https://cdn.pixabay.com/photo/2021/06/15/12/28/tiktok-6338429_960_720.png">
+        <img src="https://imgs.search.brave.com/vw6ulIWKBdA_XWMyU_MpXVMct27B11raZbWMWZU-bEk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE5LzA2/L1Rpa3Rvay1Mb2dv/LTIwMTctMjg5eDQw/MC5wbmc">
       </a>
     <p>
       Sabemos que los detalles son muy importantes para desarrollar a perfección tus <strong>Insights</strong> por eso mismo puedes consultar más detalles aquí.
